@@ -1,0 +1,18 @@
+numpy < 2.0
+pandas
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+tqdm
+
+jupyter
+
+selenium
+
+# transformers
+# transformers[sentencepiece]
+# datasets
+# accelerate
+
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
